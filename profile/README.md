@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Vellira">
+  <img src="assets/banner.png" alt="Vellira">
 </p>
 
 # Vellira
@@ -40,14 +40,14 @@ Interactive documentation powered by VitePress.
 
 ## Packages
 
-| Package | Description |
-|---------|-------------|
-| [`@vellira-ui/react`](...) | React components |
-| @vellira-ui/react-native | React Native components |
-| @vellira-ui/core | Shared hooks and logic |
-| @vellira-ui/tokens | Design tokens |
-| @vellira-ui/icons | Icon library |
-| @vellira-ui/types | Shared TypeScript types |
+| Package                           | Description             |
+|-----------------------------------|-------------------------|
+| [`@vellira-ui/react`](...)        | React components        |
+| [`@vellira-ui/react-native`](...) | React Native components |
+| [`@vellira-ui/core     `](...)    | Shared hooks and logic  |
+| [`@vellira-ui/tokens      `](...) | Design tokens           |
+| [`@vellira-ui/icons   `](...)     | Icon library            |
+| [`@vellira-ui/types    `](...)    | Shared TypeScript types |
 
 ## Installation
 
