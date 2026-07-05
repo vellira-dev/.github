@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Vellira">
+  <img src="./assets/vellira-banner.png" alt="Vellira — Cross-platform design system for React and React Native" width="100%" />
 </p>
 
 # Vellira
@@ -20,7 +20,7 @@ design tokens, icons and developer tooling.
 [![Docs](https://img.shields.io/badge/docs-vellira.dev-7c3aed)](https://docs.vellira.dev)
 
 
-**Website:** https://vellira.dev •  **Docs:** https://docs.vellira.dev •  **npm:** https://www.npmjs.com/org/vellira-ui
+**Website:** https://vellira.dev  •  **Docs:** https://docs.vellira.dev  •  **Storybook:** https://storybook.vellira.dev  •  **npm:** https://www.npmjs.com/org/vellira-ui
 
 ## React
 
@@ -40,14 +40,14 @@ Interactive documentation powered by VitePress.
 
 ## Packages
 
-| Package                           | Description             |
-|-----------------------------------|-------------------------|
-| [`@vellira-ui/react`](...)        | React components        |
-| [`@vellira-ui/react-native`](...) | React Native components |
-| [`@vellira-ui/core     `](...)    | Shared hooks and logic  |
-| [`@vellira-ui/tokens      `](...) | Design tokens           |
-| [`@vellira-ui/icons   `](...)     | Icon library            |
-| [`@vellira-ui/types    `](...)    | Shared TypeScript types |
+| Package                           | Description                               |
+|-----------------------------------|-------------------------------------------|
+| [`@vellira-ui/react`](https://www.npmjs.com/package/@vellira-ui/react)        | React components                          |
+| [`@vellira-ui/react-native`](https://www.npmjs.com/package/@vellira-ui/react-native) | React Native components                   |
+| [`@vellira-ui/core     `](https://www.npmjs.com/package/@vellira-ui/core)    | Shared hooks and logic                    |
+| [`@vellira-ui/tokens      `](https://www.npmjs.com/package/@vellira-ui/tokens) | Design tokens                             |
+| [`@vellira-ui/icons   `](https://www.npmjs.com/package/@vellira-ui/icons)     | Icon library                              |
+| [`@vellira-ui/types    `](https://www.npmjs.com/package/@vellira-ui/types)    | Shared TypeScript types                   |
 
 ## Installation
 
@@ -77,5 +77,5 @@ import { Button } from '@vellira-ui/react';
 
 - [Documentation](https://docs.vellira.dev)
 - [GitHub Repository](https://github.com/romanbakurov/Vellira)
-- [Storybook Demo](https://main--6a07269cf7126a71ef2f62ca.chromatic.com)
+- [Storybook Demo](https://storybook.vellira.dev/)
 - [Chromatic Library](https://www.chromatic.com/library?appId=6a07269cf7126a71ef2f62ca&branch=main)
