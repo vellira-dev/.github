@@ -74,7 +74,7 @@ React Native uses its own renderer and native interaction behavior. See the
 ## Product direction
 
 **In development or planned:** broader governed UI workflows and AI-assisted
-developer tooling, along with Vellira Pro and Vellira Studio.
+developer tooling, along with Vellira Pro.
 
 These are not currently shipping features of the free public Core packages.
 We will describe production capabilities as available only when they have
